@@ -1,6 +1,5 @@
-package Записи;
+package Practicum.Arrays.Записи;
 import java.util.Arrays;
-import java.util.stream.Stream;
 
 class DefaultDemo
 {

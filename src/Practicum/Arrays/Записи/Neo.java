@@ -1,4 +1,4 @@
-package Записи;
+package Practicum.Arrays.Записи;
 
 public class Neo {
     public static void main(String[] args) throws Exception {

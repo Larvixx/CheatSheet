@@ -1,4 +1,4 @@
-package Записи;
+package Practicum.Arrays.Записи;
 
 class Employee
 {

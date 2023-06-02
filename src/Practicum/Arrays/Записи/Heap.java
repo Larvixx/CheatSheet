@@ -1,4 +1,4 @@
-package Записи;
+package Practicum.Arrays.Записи;
 
 public class Heap {
     String name;

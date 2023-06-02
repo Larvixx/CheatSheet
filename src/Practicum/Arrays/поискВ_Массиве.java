@@ -1,4 +1,4 @@
-package Arrays;
+package Practicum.Arrays;
 
 import java.util.Arrays;
 

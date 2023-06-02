@@ -1,4 +1,4 @@
-package Записи;
+package Practicum.Arrays.Записи;
 
 import java.util.ArrayList;
 import java.util.List;

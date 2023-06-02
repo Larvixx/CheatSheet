@@ -1,4 +1,4 @@
-package Arrays;/*
+package Practicum.Arrays;/*
 Таблица умножения
 */
 

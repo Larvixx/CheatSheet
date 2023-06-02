@@ -1,4 +1,4 @@
-package Записи;
+package Practicum.Arrays.Записи;
 
 import java.io.BufferedInputStream;
         import java.io.FileInputStream;
